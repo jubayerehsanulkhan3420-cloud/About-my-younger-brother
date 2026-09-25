@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+  text-align: center;
+  font-family: Arial;
+}
+p {
+  color: lightblue;
+  text-align: center;
+  font-size: 30px;
+  font-family: Georgia;
+}
+button {
+  background-color: pink;
+  color: white;
+  font-size: 18px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+}
